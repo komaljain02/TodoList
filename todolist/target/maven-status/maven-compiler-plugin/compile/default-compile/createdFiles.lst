@@ -1,0 +1,13 @@
+com\todo\model\RegVO.class
+com\todo\service\TaskServiceImpl.class
+com\todo\DAO\TaskDAOImpl.class
+com\todo\DAO\RegDAOImpl.class
+com\todo\service\RegService.class
+com\todo\model\TaskVO.class
+com\todo\service\TaskService.class
+com\todo\service\RegServiceImpl.class
+com\todo\SpringbootHibernateApplication.class
+com\todo\DAO\TaskDAO.class
+com\todo\HibernateConfiguartion.class
+com\todo\DAO\RegDAO.class
+com\todo\controller\ListController.class
